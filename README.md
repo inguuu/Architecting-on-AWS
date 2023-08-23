@@ -2,7 +2,7 @@
 
 ### Architecting on AWS 과정
 
-#### [1일 차](https://github.com/no-in/tech-study/wiki/JVM)
+#### [1일 차](https://github.com/inguuu/Architecting-on-AWS/wiki/1%EC%9D%BC%EC%B0%A8)
 
 ##### 모듈 0: Architecting on AWS 소개
 - 강의 준비
