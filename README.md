@@ -38,7 +38,7 @@
 
 ----
 
-#### 2일 차
+#### [2일 차](https://github.com/inguuu/Architecting-on-AWS/wiki/2%EC%9D%BC%EC%B0%A8)
 
 ##### 모듈 5: 스토리지
 
