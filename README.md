@@ -77,7 +77,7 @@
 
 ----
 
-#### [3일 차](https://github.com/inguuu/Architecting-on-AWS/wiki/2%EC%9D%BC%EC%B0%A8)
+#### [3일 차](https://github.com/inguuu/Architecting-on-AWS/wiki/3%EC%9D%BC%EC%B0%A8)
 
 ##### 모듈 10: 네트워킹 2
 
